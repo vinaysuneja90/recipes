@@ -1,0 +1,1 @@
+code . -->opens the vs code
